@@ -1,6 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Conflicto");
+Console.WriteLine("Solucion del conflicto");
 public class Piscinas
 {
     public int Id;
