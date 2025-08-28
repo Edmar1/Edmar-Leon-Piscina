@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\Parcial programacion\Edmar-Leon-Piscina\ConsolePiscina\bin\Debug\net9.0\ConsolePiscina.exe
+C:\Users\Usuario\Desktop\Parcial programacion\Edmar-Leon-Piscina\ConsolePiscina\bin\Debug\net9.0\ConsolePiscina.deps.json
+C:\Users\Usuario\Desktop\Parcial programacion\Edmar-Leon-Piscina\ConsolePiscina\bin\Debug\net9.0\ConsolePiscina.runtimeconfig.json
+C:\Users\Usuario\Desktop\Parcial programacion\Edmar-Leon-Piscina\ConsolePiscina\bin\Debug\net9.0\ConsolePiscina.dll
+C:\Users\Usuario\Desktop\Parcial programacion\Edmar-Leon-Piscina\ConsolePiscina\bin\Debug\net9.0\ConsolePiscina.pdb
+C:\Users\Usuario\Desktop\Parcial programacion\Edmar-Leon-Piscina\ConsolePiscina\obj\Debug\net9.0\ConsolePiscina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Parcial programacion\Edmar-Leon-Piscina\ConsolePiscina\obj\Debug\net9.0\ConsolePiscina.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Parcial programacion\Edmar-Leon-Piscina\ConsolePiscina\obj\Debug\net9.0\ConsolePiscina.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Parcial programacion\Edmar-Leon-Piscina\ConsolePiscina\obj\Debug\net9.0\ConsolePiscina.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Parcial programacion\Edmar-Leon-Piscina\ConsolePiscina\obj\Debug\net9.0\ConsolePiscina.sourcelink.json
+C:\Users\Usuario\Desktop\Parcial programacion\Edmar-Leon-Piscina\ConsolePiscina\obj\Debug\net9.0\ConsolePiscina.dll
+C:\Users\Usuario\Desktop\Parcial programacion\Edmar-Leon-Piscina\ConsolePiscina\obj\Debug\net9.0\refint\ConsolePiscina.dll
+C:\Users\Usuario\Desktop\Parcial programacion\Edmar-Leon-Piscina\ConsolePiscina\obj\Debug\net9.0\ConsolePiscina.pdb
+C:\Users\Usuario\Desktop\Parcial programacion\Edmar-Leon-Piscina\ConsolePiscina\obj\Debug\net9.0\ConsolePiscina.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Parcial programacion\Edmar-Leon-Piscina\ConsolePiscina\obj\Debug\net9.0\ref\ConsolePiscina.dll
